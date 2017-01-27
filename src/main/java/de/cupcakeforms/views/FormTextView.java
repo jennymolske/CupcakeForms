@@ -6,10 +6,10 @@ import android.util.AttributeSet;
 import android.widget.EditText;
 import android.widget.LinearLayout;
 
-import jennymolske.de.formawesome.R;
-import jennymolske.de.formawesome.exceptions.WrongTypeException;
-import jennymolske.de.formawesome.items.FormItem;
-import jennymolske.de.formawesome.items.FormText;
+import de.cupcakeforms.R;
+import de.cupcakeforms.exceptions.WrongTypeException;
+import de.cupcakeforms.items.FormItem;
+import de.cupcakeforms.items.FormText;
 
 /**
  * Created by jennifermolske on 08.01.17.

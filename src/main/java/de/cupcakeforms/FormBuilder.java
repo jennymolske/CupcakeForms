@@ -6,10 +6,10 @@ import android.view.View;
 import java.util.ArrayList;
 import java.util.List;
 
-import jennymolske.de.formawesome.exceptions.MissingFormContainerException;
-import jennymolske.de.formawesome.exceptions.NullNotSupportedException;
-import jennymolske.de.formawesome.items.FormItem;
-import jennymolske.de.formawesome.views.FormItemView;
+import de.cupcakeforms.exceptions.MissingFormContainerException;
+import de.cupcakeforms.exceptions.NullNotSupportedException;
+import de.cupcakeforms.items.FormItem;
+import de.cupcakeforms.views.FormItemView;
 
 /**
  * Created by jennifermolske on 06.01.17.
